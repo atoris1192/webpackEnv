@@ -1,0 +1,10 @@
+{
+  "name": "practis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "k.niuishi <atoris1192@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  }
+}
